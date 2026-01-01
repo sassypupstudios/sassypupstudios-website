@@ -1,0 +1,5 @@
+# Documentation files
+*.md
+
+# Git directory
+.git/
