@@ -1,0 +1,12 @@
+# robots.txt for sassypupstudios.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.sassypupstudios.com/sitemap.xml
+
+# Block admin/system files
+Disallow: /.git/
+Disallow: /.wrangler/
+Disallow: /*.md$
